@@ -11,5 +11,9 @@
 int main(int argc, const char * argv[]) {
     // insert code here...
     printf("Hello, World!\n");
+    
+    // Changing code with comment
+    
+    getchar();
     return 0;
 }
